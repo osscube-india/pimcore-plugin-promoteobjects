@@ -1,0 +1,9 @@
+
+/*#pimcore_panel_toolbar {
+    background: red !important;
+}*/
+
+.promoteObjects_icon_warning{
+        background: url(/pimcore/static/img/icon/dialog-warning.png) left center no-repeat !important;
+        background-size: 80% auto !important;
+    }
